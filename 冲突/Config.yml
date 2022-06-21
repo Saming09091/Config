@@ -93,7 +93,7 @@ proxy-providers:
     url: https://api.io/getprofile?name=Clash/Others.ini&token=XX
     interval: 86400
     health-check:
-      enable: true
+      enable: false
       url: http://www.gstatic.com/generate_204
       interval: 300
   📧 解锁节点:
